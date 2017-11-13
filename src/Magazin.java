@@ -52,7 +52,7 @@ public class Magazin {
         resultedProduct.calories = data[9].equals("null") ? 0 : Integer.parseInt(data[9]);
         resultedProduct.discount = data[10].equals("null") ? 0 : Integer.parseInt(data[10]);
         resultedProduct.currency = data[11].equals("null") ? null : data[11];
-        resultedProduct.screenSize = data[12].equals("null") ? 0 : Integer.parseInt(data[12]);
+        resultedProduct.screenSize = data[12].equals("null") ? 0 : Float.parseFloat(data[12]);
         resultedProduct.weight = data[13].equals("null") ? 0 : Integer.parseInt(data[13]);
         resultedProduct.brand = data[14].equals("null") ? null : data[14];
         resultedProduct.operatingSystem = data[15].equals("null") ? null : data[15];

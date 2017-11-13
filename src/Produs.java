@@ -13,7 +13,7 @@ public class Produs {
     int calories;
     int discount;
     String currency;
-    int screenSize;
+    float screenSize;
     int weight;
     String brand;
     String operatingSystem;

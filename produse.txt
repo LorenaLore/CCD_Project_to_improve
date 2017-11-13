@@ -29,3 +29,18 @@
 29;camasa in carouri;160.00;camasa de barbati in carouri, alb cu albastru, cu butoni;M;null;M;null;null;null;null;RON;null;null;Zara;null;alb albastru;null;null;null;null;null;false;
 30;camasa office;120.00;camasa de femei alba stil office;S;null;F;null;null;null;null;RON;null;null;Zara;null;alb;null;null;null;null;null;false;
 31;pantaloni scurti copii;80.00;pantaloni scurti unisex, albastri;null;12-16;U;null;null;null;null;RON;null;null;Zara;null;albastru;null;null;null;null;null;false;
+32;pantaloni fete;60.00;pantaloni de blugi de fete cu printesa Sofia;null;04-06;F;null;null;null;null;RON;null;null;H&M;null;blugi;null;null;null;null;null;false;
+33;fusta office;180.00;fusta creion stil office;M;null;F;null;null;null;null;RON;null;null;Zara;null;negru;null;null;null;null;null;false;
+34;geaca baieti Spiderman;130.00;geaca de baieti cu imprimeu pe spate cu Spiderman;null;10-12;B;null;null;null;null;RON;null;null;H&M;null;verde;null;null;null;null;null;false;
+35;telefon Samsung Galaxy S8;2900.00;telefon Samsung Galaxy S8 32GB;null;null;null;171;null;null;20;RON;6.0;null;Samsung;null;negru;null;null;null;null;null;false;
+36;telefon Samsung Galaxy S8 PLUS;3800.00;telefon Samsung Galaxy S8 PLUS 64GB;null;null;null;171;null;null;null;RON;6.2;null;Samsung;null;alb;null;null;null;null;null;false;
+37;telefon IPhone 7;3800.00;telefon IPhone 7 32GB;null;null;null;150;null;null;15;RON;5.7;null;Apple;null;gri;null;null;null;null;null;false;
+38;telefon IPhone X;5900.00;telefon IPhone X 128GB;null;null;null;152;null;null;null;RON;5.6;null;Apple;null;alb;null;null;null;null;null;false;
+39;tableta Asus;700.00;tableta Asus;null;null;null;312;null;null;30;RON;7.2;null;Asus;null;gri;null;null;null;null;null;false;
+40;tableta Lenovo;1700.00;tableta Lenovo;null;null;null;312;null;null;15;RON;12;null;Lenovo;null;negru;null;null;null;null;null;false;
+41;tableta Samsung Galaxy Tab E;2100.00;tableta Samsung Galaxy Tab E;null;null;null;401;null;null;null;RON;10.7;null;Samsung;null;gri;null;null;null;null;null;false;
+42;televizor Samsung;2100.00;televizor Samsung 138cm, smart;null;null;null;null;null;null;10;RON;138;null;Samsung;null;gri;3840x2180;smart;null;Wi-Fi integrat;null;false;
+43;televizor Samsung;1100.00;televizor Samsung 60cm, smart;null;null;null;null;null;null;null;RON;60;null;Samsung;null;negru;1140x680;smart;null;Wi-Fi integrat;null;false;
+44;televizor Samsung;1000.00;televizor Samsung 82cm;null;null;null;null;null;null;25;RON;82;null;Samsung;null;negru;1230x710;standard;null;null;null;false;
+45;televizor Sony;1200.00;televizor Sony 112cm;null;null;null;null;null;null;10;RON;112;null;Samsung;null;negru;1230x710;standard;null;null;null;false;
+
