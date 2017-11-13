@@ -43,4 +43,3 @@
 43;televizor Samsung;1100.00;televizor Samsung 60cm, smart;null;null;null;null;null;null;null;RON;60;null;Samsung;null;negru;1140x680;smart;null;Wi-Fi integrat;null;false;
 44;televizor Samsung;1000.00;televizor Samsung 82cm;null;null;null;null;null;null;25;RON;82;null;Samsung;null;negru;1230x710;standard;null;null;null;false;
 45;televizor Sony;1200.00;televizor Sony 112cm;null;null;null;null;null;null;10;RON;112;null;Samsung;null;negru;1230x710;standard;null;null;null;false;
-
